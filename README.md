@@ -52,6 +52,7 @@ You can delete all Records:
 ## Grading System
 
 This program calculates the final grade of students based on their written exercises and exams.
+The template is based in the template was asked by my University.
 
 ### How to Use
 

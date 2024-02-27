@@ -48,3 +48,23 @@ You can delete all Records:
 ```
 /program.exe -f "filename" -deleteentries
 ```
+
+## Grading System
+
+This program calculates the final grade of students based on their written exercises and exams.
+
+### How to Use
+
+1. Compile the program.
+2. Run the executable.
+3. Follow the instructions to input data.
+4. Input grades for the final exam and repeat examinations if needed.
+5. The program will calculate the final grades and display them.
+
+### Program Details
+
+- **Input Data**: Reads student registration numbers and grades for written exercises.
+- **Exams**: Determines if students have the right to participate in the final exam.
+- **Input Grade**: Takes input for final exam grades and repeat examination grades.
+- **Final Grade**: Calculates the final grades based on the written exercises and exam grades.
+- **Print Data**: Displays the student data and final grades.

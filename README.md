@@ -49,7 +49,7 @@ You can delete all Records:
 /program.exe -f "filename" -deleteentries
 ```
 
-## Grading System
+## GradeCalculator
 
 This program calculates the final grade of students based on their written exercises and exams.
 The template is based in the template was asked by my University.
@@ -69,3 +69,21 @@ The template is based in the template was asked by my University.
 - **Input Grade**: Takes input for final exam grades and repeat examination grades.
 - **Final Grade**: Calculates the final grades based on the written exercises and exam grades.
 - **Print Data**: Displays the student data and final grades.
+
+
+## PartySeatsCalculator
+
+### How to Use
+
+1.Compile the program.
+2.Run the executable.
+3.Follow the instructions to input party data and constituency results.
+4.Choose option 1 to enter constituency results or option 2 to print final percentages and seat allocation.
+
+### Program Details
+
+- **Input Party Data: Enter party IDs and names.
+- **Constituency Results: Input votes for each party.
+- **Final Percentages: Calculate percentages of votes for each party.
+- **Seat Allocation: Distribute seats based on percentages.
+- **Printing Results: Display final percentages and seat allocation.
